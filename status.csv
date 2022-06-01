@@ -1,7 +1,7 @@
-status,time
-available,09:01:38
-away,09:14:27
-available,10:01:38
-brb,11:14:27
-available,11:20:21
-offline,17:13:20
+index,status,time
+0,available,09:01:38
+1,away,09:14:27
+2,available,10:01:38
+3,brb,11:14:27
+4,available,11:20:21
+5,offline,17:13:20
